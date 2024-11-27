@@ -1,5 +1,5 @@
 # app-dev
 My first repository
-- First item
-- Second item
-- Third item
+- First Series - The Grudge
+- Second Movie - Home Alone
+- Third Series - Queen of tears
